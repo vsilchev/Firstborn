@@ -1,3 +1,3 @@
 # Firstborn
 My first GitHub repository
-Accessed from RStudio
+Accessed from RStudio just right now.
